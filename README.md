@@ -8,7 +8,7 @@ SQL Injection Web App For Practices and Learning Purpose
 
 # How to Start Server
 
-- Step.1: Type in Cmd `python sql.py`
+- Step.1: Type in Cmd `python3 sql.py`
 - Step.2 Open Browser And Type `yourip:5000`
 - Step.3 Admin Login Info `admin:admin123`
 - Step.4 Use Sql Payload `admin'--` any password
